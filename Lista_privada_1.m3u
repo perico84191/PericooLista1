@@ -1,0 +1,510 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Testador IPTV", Gerado por Testador IPTV(PlayStore)
+https://play.google.com/store/apps/details?id=thalles.org.testadoriptv
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="✅ INFANTILES PREMIUM  ✅", NIÑOS | DISCOVERY KIDS  HD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/132701.m3u
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="✅ INFANTILES PREMIUM  ✅", NIÑOS | DISCOVERY KIDS SD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/132702.m3u
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/2022_Disney_Channel_logo.svg/1200px-2022_Disney_Channel_logo.svg.png" group-title="✅ INFANTILES PREMIUM  ✅", NIÑOS | DISNEY CHANNEL HD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/132699.m3u
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/2022_Disney_Channel_logo.svg/1200px-2022_Disney_Channel_logo.svg.png" group-title="✅ INFANTILES PREMIUM  ✅", NIÑOS | DISNEY CHANNEL SD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/132700.m3u
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmQkRbhEdkj9VU6aIWf3LRooGDSl0GDNootA&s" group-title="✅ INFANTILES PREMIUM  ✅", NIÑOS | DISNEY JR HD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/132697.m3u
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmQkRbhEdkj9VU6aIWf3LRooGDSl0GDNootA&s" group-title="✅ INFANTILES PREMIUM  ✅", NIÑOS | DISNEY JR SD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/132698.m3u
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/BabyTV_logo.png" group-title="✅ INFANTILES PREMIUM  ✅", NIÑOS | BABY TV HD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/132689.m3u
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bc/BabyTV_logo.png" group-title="✅ INFANTILES PREMIUM  ✅", NIÑOS | BABY TV SD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/132690.m3u
+
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NICK.png" group-title="✅ INFANTILES PREMIUM  ✅", NIÑOS | NICKELODEON HD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/132711.m3u
+
+#EXTINF:-1 tvg-logo="htps://www.movistarplus.es/recorte/m-NEO/canal/NICK.png" group-title="✅ INFANTILES PREMIUM  ✅", NIÑOS | PLiM PLiM
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/132712.m3u
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/1200px-Nick_Jr._logo_2023_%28outline%29.svg.png" group-title="✅ INFANTILES PREMIUM  ✅", NIÑOS | NICK JR SD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/132696.m3u
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2021/04/generica_elem_cn.jpg" group-title="✅ INFANTILES PREMIUM  ✅", NIÑOS | CARTOON NETWORK HD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/132707.m3u
+
+#EXTINF:-1 tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/infobae/KFF6ACZZR5HO3EYYLC35GLRLOE.jpeg" group-title="✅ INFANTILES PREMIUM  ✅", NIÑOS | CARTOONITO SD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/132708.m3u
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Nick_%28Logo%29.png" group-title="✅ INFANTILES PREMIUM  ✅", NIÑOS | NICK HD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/132691.m3u
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="✅ INFANTILES PREMIUM  ✅", NIÑOS | DISCOVERY KIDS  HD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/132701.m3u
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="✅ INFANTILES PREMIUM  ✅", NIÑOS | DISCOVERY KIDS SD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/132702.m3u
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/2022_Disney_Channel_logo.svg/1200px-2022_Disney_Channel_logo.svg.png" group-title="✅ INFANTILES PREMIUM  ✅", NIÑOS | DISNEY CHANNEL HD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/132699.m3u
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/2022_Disney_Channel_logo.svg/1200px-2022_Disney_Channel_logo.svg.png" group-title="✅ INFANTILES PREMIUM  ✅", NIÑOS | DISNEY CHANNEL SD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/132700.m3u
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Nick_2.png" group-title="✅ INFANTILES PREMIUM  ✅", NIÑOS | NICK 2 HD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/132693.m3u
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Nick_Jr._logo_2023_%28outline%29.svg/1200px-Nick_Jr._logo_2023_%28outline%29.svg.png" group-title="✅ INFANTILES PREMIUM  ✅", NIÑOS | NICK JR HD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/132695.m3u
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Toncst.png" group-title="✅ INFANTILES PREMIUM  ✅", NIÑOS | TOONCAST HD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/132703.m3u
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="⚽ LlG∆| MEXICANA ⚽", MX | TUDN USA HD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/437846.m3u
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png" group-title="⚽ LlG∆| MEXICANA ⚽", MX | TUDN OP 2
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/314974.m3u
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT85ClrPSC1uEjIyRyio7yddR0a2LYoPHJZew&s" group-title="⚽ LlG∆| MEXICANA ⚽", MX | TUDN USA
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/314975.m3u
+
+#EXTINF:-1 tvg-logo="http://mundo2.pro:80/images/bf6cab5221b09da6cfcfa2cf09340725.png" group-title="⚽ LlG∆| MEXICANA ⚽", MX | TUDN MX
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/362472.m3u
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png" group-title="⚽ LlG∆| MEXICANA ⚽", MX | ESPN 2 MX HD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/437843.m3u
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/ESPN_3D_logo.svg/3840px-ESPN_3D_logo.svg.png" group-title="⚽ LlG∆| MEXICANA ⚽", MX | ESPN 3 MX HD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/566646.m3u
+
+#EXTINF:-1 tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/LOGO-DEPORTES-1040x585.jpg" group-title="⚽ LlG∆| MEXICANA ⚽", MX | FOX DEPORTES MX HD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/566652.m3u
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/Fox_sports_1_10s.png" group-title="⚽ LlG∆| MEXICANA ⚽", MX | FOX SPORTS 1 HD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/566655.m3u
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/dd/FoxSports_2_Mexico.png" group-title="⚽ LlG∆| MEXICANA ⚽", MX | FOX SPORTS 2 HD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/566658.m3u
+
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/51/2/fox-sports-3-logo-png_seeklogo-510012.png" group-title="⚽ LlG∆| MEXICANA ⚽", MX | FOX SPORTS 3 HD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/566661.m3u
+
+#EXTINF:-1 tvg-logo="http://mundo2.pro:80/images/bf6cab5221b09da6cfcfa2cf09340725.png" group-title="⚽ LlG∆| MEXICANA ⚽", MX | Azteca 7 | México
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/362476.m3u
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="⚽ LlG∆| MEXICANA ⚽", *CLARO SPORTS 2 HD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/475136.m3u
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="⚽ LlG∆| MEXICANA ⚽", CLARO SPORTS 1 HD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/475133.m3u
+
+#EXTINF:-1 tvg-logo="http://mundo2.pro:80/images/bf6cab5221b09da6cfcfa2cf09340725.png" group-title="⚽ LlG∆| MEXICANA ⚽", MX | Canal 5 | México
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/362477.m3u
+
+#EXTINF:-1 tvg-logo="http://mundo2.vip:8080/images/7c52ed5b8820b7dfd90b5a784bac64b3.png" group-title="⏩ LATINOS PREMIUM ⏪", AMC
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/317491.m3u
+
+#EXTINF:-1 tvg-logo="http://mundo2.vip:8080/images/30a3684accce1f511ea776a07d44c351.png" group-title="⏩ LATINOS PREMIUM ⏪", AMERICA TV
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/317492.m3u
+
+#EXTINF:-1 tvg-logo="http://mundo2.vip:8080/images/10bb6b75d103ec8facd0f6650fec9d03.png" group-title="⏩ LATINOS PREMIUM ⏪", ANTENA 1
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/317493.m3u
+
+#EXTINF:-1 tvg-logo="http://mundo2.vip:8080/images/e9b50ce149cddc1508c80e29fc70ac19.png" group-title="⏩ LATINOS PREMIUM ⏪", ARUSSA TV
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/317495.m3u
+
+#EXTINF:-1 tvg-logo="http://mundo2.vip:8080/images/d2a5b569156233749c631bddf6051d1a.png" group-title="⏩ LATINOS PREMIUM ⏪", ATV SUR
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/317496.m3u
+
+#EXTINF:-1 tvg-logo="http://mundo2.vip:8080/images/042dba4d2faaa29cd2fa4c0125416d25.png" group-title="⏩ LATINOS PREMIUM ⏪", AXN
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/317497.m3u
+
+#EXTINF:-1 tvg-logo="http://mundo2.vip:8080/images/6feef9ff95cf873c21f5abd2eaed581c.png" group-title="⏩ LATINOS PREMIUM ⏪", CINEMA INOLVIDABLE
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/317498.m3u
+
+#EXTINF:-1 tvg-logo="http://mundo2.vip:8080/images/8a52d25ec47bc00846cd832e763dd95d.png" group-title="⏩ LATINOS PREMIUM ⏪", CORAZON
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/317499.m3u
+
+#EXTINF:-1 tvg-logo="http://mundo2.vip:8080/images/16b59c43c1ad0c491a760a9ef7e0e4a1.png" group-title="⏩ LATINOS PREMIUM ⏪", AZ INTERNACIONAL
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/317500.m3u
+
+#EXTINF:-1 tvg-logo="http://mundo2.vip:8080/images/99b4f94a78a060acb895dca5a3b85f40.png" group-title="⏩ LATINOS PREMIUM ⏪", BANDAMAX
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/317501.m3u
+
+#EXTINF:-1 tvg-logo="http://mundo2.vip:8080/images/d851bc155131e47b37e6f0407e0df7d0.png" group-title="⏩ LATINOS PREMIUM ⏪", BETHEL
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/317503.m3u
+
+#EXTINF:-1 tvg-logo="http://mundo2.vip:8080/images/9bb00182c4d91fb87736c761e107ed67.png" group-title="⏩ LATINOS PREMIUM ⏪", BHTV
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/317504.m3u
+
+#EXTINF:-1 tvg-logo="http://mundo2.vip:8080/images/2723a8a5cb3101971c1ab11a9d39f67b.png" group-title="⏩ LATINOS PREMIUM ⏪", BITME
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/317505.m3u
+
+#EXTINF:-1 tvg-logo="http://mundo2.vip:8080/images/b587c46873dc9d4c6dcc328ddb86955f.png" group-title="⏩ LATINOS PREMIUM ⏪", BITT TV
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/317506.m3u
+
+#EXTINF:-1 tvg-logo="http://mundo2.vip:8080/images/2b639247e30c7b2695af807047972b6a.png" group-title="⏩ LATINOS PREMIUM ⏪", LAS ESTRELLAS
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/317507.m3u
+
+#EXTINF:-1 tvg-logo="http://mundo2.vip:8080/images/a0ccc44fba4acc60927f7e08695676e7.png" group-title="⏩ LATINOS PREMIUM ⏪", CINECANAL
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/317508.m3u
+
+#EXTINF:-1 tvg-logo="http://mundo2.vip:8080/images/2c446996d5c8bfc625bc8b1227004e12.png" group-title="⏩ LATINOS PREMIUM ⏪", CONECTA2 TV
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/317513.m3u
+
+#EXTINF:-1 tvg-logo="http://mundo2.vip:8080/images/2c92b58c155f6675a435131e2f2f45d7.png" group-title="⏩ LATINOS PREMIUM ⏪", CTV
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/317514.m3u
+
+#EXTINF:-1 tvg-logo="http://mundo2.vip:8080/images/b0020e9b0ed18e298322716dcfdcafc0.png" group-title="⏩ LATINOS PREMIUM ⏪", DE PELICULA
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/317516.m3u
+
+#EXTINF:-1 tvg-logo="http://mundo2.vip:8080/images/9f6bd8bf3c07254fa7d10f763169cb17.png" group-title="⏩ LATINOS PREMIUM ⏪", DISTRITO COMEDIA
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/317517.m3u
+
+#EXTINF:-1 tvg-logo="http://mundo2.vip:8080/images/af9219d7124ca16c3733b91370100772.png" group-title="⏩ LATINOS PREMIUM ⏪", *DRE∆MWORKS*
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/317518.m3u
+
+#EXTINF:-1 tvg-logo="http://mundo2.vip:8080/images/924bfc637c045be595f5c4d859cc6fb1.png" group-title="⏩ LATINOS PREMIUM ⏪", DUNAS TV
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/317519.m3u
+
+#EXTINF:-1 tvg-logo="http://mundo2.vip:8080/images/0bdfe2e55090d6be70793778d0d8e147.png" group-title="⏩ LATINOS PREMIUM ⏪", DW
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/317520.m3u
+
+#EXTINF:-1 tvg-logo="http://mundo2.vip:8080/images/e8f9c0a487284fd0b7a3c7ef3081e868.png" group-title="⏩ LATINOS PREMIUM ⏪", ENLACE
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/317521.m3u
+
+#EXTINF:-1 tvg-logo="http://mundo2.vip:8080/images/40dbd2460c336f980951da0f456e729f.png" group-title="⏩ LATINOS PREMIUM ⏪", EWTN
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/317524.m3u
+
+#EXTINF:-1 tvg-logo="http://mundo2.vip:8080/images/5158b013c9827ca60160ef8925d1edba.png" group-title="⏩ LATINOS PREMIUM ⏪", FILMS & ARTS
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/317525.m3u
+
+#EXTINF:-1 tvg-logo="http://mundo2.vip:8080/images/0760af8cfeab7d7bfdc51ccb87b0ccf3.png" group-title="⏩ LATINOS PREMIUM ⏪", FOLKLORE TV
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/317526.m3u
+
+#EXTINF:-1 tvg-logo="http://mundo2.vip:8080/images/b8b5089c70ae62534970e2d8aa67e96d.png" group-title="⏩ LATINOS PREMIUM ⏪", FX
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/317527.m3u
+
+#EXTINF:-1 tvg-logo="http://mundo2.vip:8080/images/91019a5463e546d88723d04941e78457.png" group-title="⏩ LATINOS PREMIUM ⏪", GOLDEN EDGE
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/317528.m3u
+
+#EXTINF:-1 tvg-logo="http://mundo2.vip:8080/images/e50583185ee77e8027d6d72e1d7428ac.png" group-title="⏩ LATINOS PREMIUM ⏪", GOLDEN LATINO
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/317529.m3u
+
+#EXTINF:-1 tvg-logo="http://mundo2.vip:8080/images/065957dff2d3bb9f6ddfb16bc7be5db8.png" group-title="⏩ LATINOS PREMIUM ⏪", IPE
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/317531.m3u
+
+#EXTINF:-1 tvg-logo="http://mundo2.vip:8080/images/b8707e85ae7350eba450b0f1b428c8ca.png" group-title="⏩ LATINOS PREMIUM ⏪", JN19
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/317532.m3u
+
+#EXTINF:-1 tvg-logo="http://mundo2.vip:8080/images/4381c8fc32a4f49afcc7200f66b846e9.png" group-title="⏩ LATINOS PREMIUM ⏪", JUNTOSTV
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/317533.m3u
+
+#EXTINF:-1 tvg-logo="http://mundo2.vip:8080/images/53c85b4e7d4020983478b5b939e59a64.png" group-title="⏩ LATINOS PREMIUM ⏪", JUSTICIA TV
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/317534.m3u
+
+#EXTINF:-1 tvg-logo="http://mundo2.vip:8080/images/a1393f68d11ec976fc02d4ce26778e1a.png" group-title="⏩ LATINOS PREMIUM ⏪", KANAL D
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/317535.m3u
+
+#EXTINF:-1 tvg-logo="http://mundo2.vip:8080/images/bbcf5aea2a1d9bf2686f8641fcd1e5dc.png" group-title="⏩ LATINOS PREMIUM ⏪", LA TELE
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/317536.m3u
+
+#EXTINF:-1 tvg-logo="http://mundo2.vip:8080/images/440743a20d4a97878639ab8bd0dee833.png" group-title="⏩ LATINOS PREMIUM ⏪", LATINA NOTICIAS
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/317537.m3u
+
+#EXTINF:-1 tvg-logo="http://mundo2.vip:8080/images/b995eead2b785622c84a6c89456fd11c.png" group-title="⏩ LATINOS PREMIUM ⏪", NATIVA
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/317544.m3u
+
+#EXTINF:-1 tvg-logo="http://mundo2.vip:8080/images/8f81b8381405b81b91b521c5899b10a7.png" group-title="⏩ LATINOS PREMIUM ⏪", NEOTV
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/317545.m3u
+
+#EXTINF:-1 tvg-logo="http://mundo2.vip:8080/images/84493c50aac372258e6b28a8796ae753.png" group-title="⏩ LATINOS PREMIUM ⏪", NOTICIAS CARACOL
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/317546.m3u
+
+#EXTINF:-1 tvg-logo="http://mundo2.vip:8080/images/03df9216683a8c7d899a918eb95671f0.png" group-title="⏩ LATINOS PREMIUM ⏪", OVACION
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/317547.m3u
+
+#EXTINF:-1 tvg-logo="http://mundo2.vip:8080/images/961f8d152f8a434df0a1e15e198e067c.png" group-title="⏩ LATINOS PREMIUM ⏪", PASIONES
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/317548.m3u
+
+#EXTINF:-1 tvg-logo="http://mundo2.vip:8080/images/a466c7795edfc3b1490f07bdf64d8ef5.png" group-title="⏩ LATINOS PREMIUM ⏪", PBO
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/317549.m3u
+
+#EXTINF:-1 tvg-logo="http://mundo2.vip:8080/images/26c48e02aee98ff0e7df2b1a5dc6536f.png" group-title="⏩ LATINOS PREMIUM ⏪", PLIM PLIM
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/317550.m3u
+
+#EXTINF:-1 tvg-logo="http://mundo2.vip:8080/images/ed6d55663139df20b71b553fd87f7618.png" group-title="⏩ LATINOS PREMIUM ⏪", RCR
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/317553.m3u
+
+#EXTINF:-1 tvg-logo="http://mundo2.vip:8080/images/11dadba3103a46e999b0bc7177924e93.png" group-title="⏩ LATINOS PREMIUM ⏪", SONY MOVIES
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/317554.m3u
+
+#EXTINF:-1 tvg-logo="http://mundo2.vip:8080/images/75d8cd8ed6ea6c5c001040b5f1d0ad7b.png" group-title="⏩ LATINOS PREMIUM ⏪", STUDIO UNIVERSAL
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/317555.m3u
+
+#EXTINF:-1 tvg-logo="http://mundo2.vip:8080/images/1712e697415c5745702dfcf7c526de45.png" group-title="⏩ LATINOS PREMIUM ⏪", SUMAC TV
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/317556.m3u
+
+#EXTINF:-1 tvg-logo="http://mundo2.vip:8080/images/3803db45bc1df60b0da1258a38857095.png" group-title="⏩ LATINOS PREMIUM ⏪", TARAPOTO TV
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/317557.m3u
+
+#EXTINF:-1 tvg-logo="http://mundo2.vip:8080/images/07afd7811c95353f57b2c7b2e2028e78.png" group-title="⏩ LATINOS PREMIUM ⏪", TELEHIT LATINO
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/317558.m3u
+
+#EXTINF:-1 tvg-logo="http://mundo2.vip:8080/images/582e850f4302644888a03829c8e8fd1e.png" group-title="⏩ LATINOS PREMIUM ⏪", TELEHIT MUSICA
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/317559.m3u
+
+#EXTINF:-1 tvg-logo="http://mundo2.vip:8080/images/56f924ab0e3529515562d1e070270220.png" group-title="⏩ LATINOS PREMIUM ⏪", T€L€MUŃD0
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/317560.m3u
+
+#EXTINF:-1 tvg-logo="http://mundo2.vip:8080/images/624ad965849d0b12afe9ecb444012bbd.png" group-title="⏩ LATINOS PREMIUM ⏪", TOPLATINO
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/317561.m3u
+
+#EXTINF:-1 tvg-logo="http://mundo2.vip:8080/images/ed9111a183e4637d96b58412a61f269d.png" group-title="⏩ LATINOS PREMIUM ⏪", TRIVU TV
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/317563.m3u
+
+#EXTINF:-1 tvg-logo="http://mundo2.vip:8080/images/51651e15badc54dbded8bfe27dcfacd6.png" group-title="⏩ LATINOS PREMIUM ⏪", TVL
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/317564.m3u
+
+#EXTINF:-1 tvg-logo="http://mundo2.vip:8080/images/b47753270492a7afadc03453d1697828.png" group-title="⏩ LATINOS PREMIUM ⏪", TV + CHINCHA
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/317565.m3u
+
+#EXTINF:-1 tvg-logo="http://mundo2.vip:8080/images/f75d91cdd36b85cc4a8dfeca4f24fa14.png" group-title="⏩ LATINOS PREMIUM ⏪", USA
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/317566.m3u
+
+#EXTINF:-1 tvg-logo="http://mundo2.vip:8080/images/63a8cac88e9895b2789245393c729916.png" group-title="⏩ LATINOS PREMIUM ⏪", USMP TV
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/317567.m3u
+
+#EXTINF:-1 tvg-logo="http://mundo2.vip:8080/images/1bfeddf546d4f22ae3695b63caf44551.png" group-title="⏩ LATINOS PREMIUM ⏪", VÍA TELEVISIÓN
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/317568.m3u
+
+#EXTINF:-1 tvg-logo="http://mundo2.vip:8080/images/ac11fb6a51c835584ec36927ba57f0f6.png" group-title="⏩ LATINOS PREMIUM ⏪", ZOOMOO
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/317569.m3u
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ3ULDxLzwCnoThNDFcSQWEAm-c9mv1zaicE-kkEzOWiOs7gA8OoCi5C8&s" group-title="❇️ CINE PREMIUM Exclusivo ❇️", CINE l P∆NICO HD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/538093.m3u
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/mR0lHE3.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️", CINE | A&E HD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/435979.m3u
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/fyhe0NT.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️", CINE | A&E SD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/435982.m3u
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/63mygjwX/STAR-HD.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️", CINE | STAR CHANEL HD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/436007.m3u
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/k5MNdHr6/STAR-SD.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️", CINE | STAR CHANEL SD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/436010.m3u
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/T5rxYbe.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️", CINE | CINEMAX HD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/435991.m3u
+
+#EXTINF:-1 tvg-logo="http://imgfz.com/i/pSCqVg8.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️", CINE | CINEMAX SD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/435994.m3u
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfY_V6-B2g_kEqycv8FnYBzZZca7242M3uLw&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️", CINE | CINECANAL  HD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/1251.m3u
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfY_V6-B2g_kEqycv8FnYBzZZca7242M3uLw&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️", CINE | CINECANAL  SD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/1252.m3u
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFDesPfe1ZHPS8Manr4Gh-S3dP6FhllqYVjg&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️", CINE | AXN  FHD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/1254.m3u
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFDesPfe1ZHPS8Manr4Gh-S3dP6FhllqYVjg&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️", CINE | AXN  HD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/1255.m3u
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFDesPfe1ZHPS8Manr4Gh-S3dP6FhllqYVjg&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️", CINE | AXN  SD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/1257.m3u
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS412_DLemKjbNR286Bqh-5--md7yWlo7F9sw&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️", CINE  | TNT SERIES  FHD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/1247.m3u
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS412_DLemKjbNR286Bqh-5--md7yWlo7F9sw&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️", CINE | TNT SERIES  HD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/1248.m3u
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREx6xag_8jHvToBLGBqlHfK3Y6oMAi5cqnLw&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️", CINE  | TⓝT  FHD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/1244.m3u
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREx6xag_8jHvToBLGBqlHfK3Y6oMAi5cqnLw&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️", CINE  | TÑT  HD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/1245.m3u
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREx6xag_8jHvToBLGBqlHfK3Y6oMAi5cqnLw&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️", CINE  | TNT  SD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/1246.m3u
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS412_DLemKjbNR286Bqh-5--md7yWlo7F9sw&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️", CINE |  TNT SERIES  SD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/1250.m3u
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/HBO_Cine%2C_fanmade_del_logo_de_Cinemax.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️", CINE | HBO  FHD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/54.m3u
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/HBO_Cine%2C_fanmade_del_logo_de_Cinemax.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️", CINE | HBO  HD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/55.m3u
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/HBO_Cine%2C_fanmade_del_logo_de_Cinemax.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️", CINE  | HBO  SD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/1240.m3u
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CMCQYWXJ/HBO-2-HD.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️", CINE | HBO 2 HD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/435985.m3u
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Qxykrm80/HBO-2-SD.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️", CINE | HBO 2 FHD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/435988.m3u
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA4WC_DVLdy7I-kMJhcpStbdiBOe00hos0AA&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️", CINE  | HBO FAMILY FHD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/51.m3u
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA4WC_DVLdy7I-kMJhcpStbdiBOe00hos0AA&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️", CINE | HBO FAMILY  HD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/52.m3u
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTA4WC_DVLdy7I-kMJhcpStbdiBOe00hos0AA&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️", CINE | HBO FAMILY SD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/53.m3u
+
+#EXTINF:-1 tvg-logo="http://mundo2.pro:80/images/fd496867ac6e9074677342d8e013f563.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️", CINE  | HBO PLUS  HD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/49.m3u
+
+#EXTINF:-1 tvg-logo="http://mundo2.pro:80/images/fd496867ac6e9074677342d8e013f563.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️", CINE  | HBO PLUS  FHD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/50.m3u
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUGbj613doA_lyYhNByuF0DRhIk9yKSfzkLA&s.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️", CINE  | HBO XTREME HD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/47.m3u
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUGbj613doA_lyYhNByuF0DRhIk9yKSfzkLA&s.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️", CINE | HBO XTREME FHD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/48.m3u
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd8X6vH9jsyuXvtYEs56bNO1NlDkim-SJkQg&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️", CINE | HBO SIGNATURE  SD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/46.m3u
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUrjaVQ_67o7XMUHTLunr3MrCREj8_Mfn_-g&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️", CINE  | HBO POP  FHD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/1242.m3u
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUrjaVQ_67o7XMUHTLunr3MrCREj8_Mfn_-g&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️", CINE  | HBO .POP  HD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/1243.m3u
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbAXp130AYAc4pXI_m-PqxrYip5VQCNRfUVA&s.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️", CINE | HBO MUNDl FHD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/53937.m3u
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbAXp130AYAc4pXI_m-PqxrYip5VQCNRfUVA&s.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️", CINE | HBO MUNDI HD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/53939.m3u
+
+#EXTINF:-1 tvg-logo="https://timnetworks.tv/wp-content/uploads/2022/10/CINE-PREMIUM.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️", CINE l P∆R∆M0UNT + HD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/53938.m3u
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaPteTsp2zPkNGIK2aC8M1_bKG7FUZBaFHrg&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️", CINE | SPACE CHANEL  FHD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/1280.m3u
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaPteTsp2zPkNGIK2aC8M1_bKG7FUZBaFHrg&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️", CINE | SPACE CHANEL  HD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/1281.m3u
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaPteTsp2zPkNGIK2aC8M1_bKG7FUZBaFHrg&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️", CINE | SPACE CHANEL  SD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/1282.m3u
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJq1YUknstlcWYR_a39Pbh-VKNQP_noF_rDg&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️", CINE | FX  HD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/1275.m3u
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJq1YUknstlcWYR_a39Pbh-VKNQP_noF_rDg&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️", CINE | FX  SD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/1276.m3u
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️", CINE | TCM  HD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/1266.m3u
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️", CINE |  TCM  SD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/1267.m3u
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYLWKA2w7UzyAaT3-EA29E7bvcPQ9SsvHoMQ&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️", CINE | CINE LATINO
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/100681.m3u
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEUkFenrLxGFpEKOzzTEl2crLHBNePJehWFQ&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️", CINE GOLDEN PLUS FHD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/53940.m3u
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEUkFenrLxGFpEKOzzTEl2crLHBNePJehWFQ&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️", CINE | GOLDEN PLUS HD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/53941.m3u
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEUkFenrLxGFpEKOzzTEl2crLHBNePJehWFQ&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️", CINE | GOLDEN PLUS SD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/53942.m3u
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9O4LcnjKCXpeYqAKqoMBL8AlgEW4KvxMe9w&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️", CINE | GOLDEN PREMIER  HD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/1293.m3u
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9O4LcnjKCXpeYqAKqoMBL8AlgEW4KvxMe9w&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️", CINE | GOLDEN PREMIER  SD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/1294.m3u
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHNIfv7VLUeS2w8eoF4b-k5psDxmpHYqkxew&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️", CINE | WARNER  FHD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/1258.m3u
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHNIfv7VLUeS2w8eoF4b-k5psDxmpHYqkxew&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️", CINE | WARNER  HD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/1259.m3u
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHNIfv7VLUeS2w8eoF4b-k5psDxmpHYqkxew&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️", CINE | WARNER  SD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/1260.m3u
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmUM5s02mVJaBsX8VO8xATB9ivrYta859D9g&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️", CINE | SONY M0VIES FHD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/1261.m3u
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmUM5s02mVJaBsX8VO8xATB9ivrYta859D9g&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️", CINE | SONY  HD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/1263.m3u
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmUM5s02mVJaBsX8VO8xATB9ivrYta859D9g&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️", CINE | SONY  SD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/1264.m3u
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxytfwU0t7hq8tWkwnq1tr0_J-NnCk_nV1Ow&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️", CINE | GOLDEN  HD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/1287.m3u
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxytfwU0t7hq8tWkwnq1tr0_J-NnCk_nV1Ow&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️", CINE | GOLDEN  SD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/1288.m3u
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw_MXCN8YTJUs_t4zTDTivh73cIHqA2A3Drw&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️", CINE | GOLDEN EDG  HD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/1290.m3u
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw_MXCN8YTJUs_t4zTDTivh73cIHqA2A3Drw&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️", CINE | GOLDEN EDG  SD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/1291.m3u
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQcA5OtBj1V_sz2ofup_bgNkbwLElRQVtfRg&s" group-title="❇️ CINE PREMIUM Exclusivo ❇️", P | UNIVERSAL CINEMA HD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/111421.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/6AckSd4Qswk/maxresdefault.jpg" group-title="❇️ CINE PREMIUM Exclusivo ❇️", P | UNIVERSAL CRIMEN HD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/111422.m3u
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAOm-iccq4R5QW8LPEJ1nqSJygGM0s8f0N8w&s" group-title="❇️ CINE PREMIUM Exclusivo ❇️", P | UNIVERSAL COMEDY HD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/111417.m3u
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Universal_Premiere_2021.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️", P | UNIVERSAL PREMIER HD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/111419.m3u
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfp1yzahmtFF9JfJg9-WzKnM7T9H918o_3dg&s" group-title="❇️ CINE PREMIUM Exclusivo ❇️", P | UNIVERSAL REALITY HD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/111420.m3u
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1024px-Universal_Channel_Logo_2013.svg.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️", CINE | UNIVERSAL CHANEL HD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/1269.m3u
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Universal_Channel_Logo_2013.svg/1024px-Universal_Channel_Logo_2013.svg.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️", CINE | UNIVERSAL CHANEL  SD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/1270.m3u
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Universal_Studios_Hollywood_%28recorte%29.jpg/1200px-Universal_Studios_Hollywood_%28recorte%29.jpg" group-title="❇️ CINE PREMIUM Exclusivo ❇️", CINE | UNIVERSAL STUDIO HD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/1268.m3u
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRPXbkxZVQKnNqZ0tcPBhMhdHUgLcP3Kw0fw&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️", CINE | AMC  SD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/1285.m3u
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRPXbkxZVQKnNqZ0tcPBhMhdHUgLcP3Kw0fw&usqp=CAU" group-title="❇️ CINE PREMIUM Exclusivo ❇️", CINE | AMC HD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/1284.m3u
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/q-ImVW8iRNA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCXXXTQyTDQhJzEU1dXinpsh1GoOw" group-title="❇️ CINE PREMIUM Exclusivo ❇️", ClNE | AMC SERIES
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/376321.m3u
+
+#EXTINF:-1 tvg-logo="http://mundo2.pro:80/images/f03c24deece1f371d55953aabc3d3a20.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️", EUROPA EUROPA
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/317522.m3u
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/8zYXddtg0CH7NXDA63WqNnsIpDLzBTv4vBFNmvuqlLQQqCRFMHLOlo3NDAJ6L-vam7S5sLie=s900-c-k-c0x00ffffff-no-rj" group-title="❇️ CINE PREMIUM Exclusivo ❇️", ClNE l °US∆ SERIES
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/346686.m3u
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/1200px-2020_Canal_DHE_logo.svg.png" group-title="❇️ CINE PREMIUM Exclusivo ❇️", ClNE l DHE cine  HD
+http://streamingtv.vip:8080/live/ClienteLuisO1m15Ma/6K2qUcDhcnMv/400290.m3u
+
+
